@@ -12,7 +12,7 @@ public class methods {
 	/* Main class */
 	public static void main(String[] args) {
 		
-		Methods C = new Methods();
+		methods C = new methods();
 		C.addition();
 		
 		}
